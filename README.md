@@ -99,8 +99,10 @@ You’ll upload the Python file for this assignment to your GitHub repository.
 * Submit the link to your GitHub project to Bootcamp Spot.
 * 
 ![](Screenshot 2023-07-10 190847.png)
+![Screenshot 2023-07-10 190847](https://github.com/bpetrie92/Challenge_18/assets/35862788/9d0ed53c-fa5b-436f-873f-e8843e170021)
 
 ![]('Screenshot 2023-07-10 191050.png')
----
+---![Screenshot 2023-07-10 191050](https://github.com/bpetrie92/Challenge_18/assets/35862788/21e34f6c-7340-4d74-a877-6cd021161aa0)
+
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
