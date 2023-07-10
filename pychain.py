@@ -245,7 +245,11 @@ if st.button("Validate Chain"):
 # blockchain that consists of multiple blocks. Include the screenshot in the
 # `README.md` file for your Challenge repository.
 
+![](Screenshot 2023-07-10 190847.png)  
+
 # 5. Test the blockchain validation process by using the web interface.
 # Take a screenshot of the Streamlit application page, which should indicate
 # the validity of the blockchain. Include the screenshot in the `README.md`
 # file for your Challenge repository.
+
+![](Screenshot 2023-07-10 191050.png) 
